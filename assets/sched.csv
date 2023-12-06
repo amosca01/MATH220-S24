@@ -1,33 +1,33 @@
 ﻿class-row,class-topic,Week,Day,Date,Topic,Reading,Assign-OUT,Assign-DUE
-,,1,T,16-Jan,"Welcome, What is Discrete?, Mathematica Statements: Atomic & Molecular Statements",0.2,,
-,,,R,18-Jan,"Mathematical Statements: Implications, Predicates, Quantifiers ",0.2,,
-,,2,T,23-Jan,"Propositional Logic: Truth Tables, Logical Equivalence",3.1,,
-,,,R,25-Jan,"Propositional Logic: Deductions, Predicate Logic",3.1,hw01,
-,,3,T,30-Jan,"Proofs: Direct, Contrapositive",3.2,,
-,,,R,1-Feb,"Proofs: Contradiction, Counter Example, Cases ",3.2,q01,hw01
-,inClass,4,T,6-Feb,Logic Wrap Up ,,,
-,inClass,,R,8-Feb,Logic Wrap Up ,,hw02,"q01, ic01"
-,,5,T,13-Feb,"Sets: Notation, Relationships, Operations",0.3,,
-,,,R,15-Feb,"Functions: Describing, Surjection, Injection, Bijection",0.4,q02,hw02
-noClass,italic ,6,T,20-Feb,NO CLASS - Monday Schedule,,,
-,,,R,22-Feb,"Counting: Additive and Multiplicative Principles, Sets, Inclusion/Exclusion Principle",1.1,hw03,q02
-,,7,T,27-Feb,"Counting: Combinations, Permutations",1.3,,
-,,,R,Feb-29,"Counting: Combinatorial Proofs, Stars and Bars","1.4, 1.5",q03,hw03
-,inClass,8,T,5-Mar,Counting Wrap Up,,,
-,inClass,,R,7-Mar,Counting Wrap Up,,,"q03, ic02"
-noClass,italic,9,T,12-Mar,NO CLASS - Spring Break ,,,
-noClass,italic,,R,14-Mar,NO CLASS - Spring Break ,,,
-,,10,T,19-Mar,"Sequences: Describing, Arithmetic and Geometric","2.1, 2.2",,
-,,,R,21-Mar,Sequences: Solving Recurrence Relations,2.4,hw04,
-,,11,T,26-Mar,Sequences: Induction,2.5,,
-,inClass,,R,28-Mar,Sequences Wrap Up,,q04,hw04
-,inClass,12,T,2-Apr,Sequences Wrap Up,,,ic03
-,,,R,4-Apr,Graph Theory: Definitions,4.1,proj,q04
-,,13,T,9-Apr,Graph Theory: Trees,,,
-,,,R,11-Apr,Graph Theory: Euler aths and Circuits,4.5,,proj-proposal
-,,14,T,16-Apr,"Graph Theory: BFS, DFS",,,
-,inClass,,R,18-Apr,Graph Wrap Up,,,proj-check-in
-,inClass,15,T,23-Apr,Graph Wrap Up,,,
-presy,proj,,R,25-Apr,Final Project Presentations,,,proj-final
-presy,proj,16,T,30-Apr,Final Project Presentations ,,,
+,,1,T,1/16,"Welcome, What is Discrete?, Mathematica Statements: Atomic & Molecular Statements",0.2,,
+,,,R,1/18,"Mathematical Statements: Implications, Predicates, Quantifiers ",0.2,,
+,,2,T,1/23,"Propositional Logic: Truth Tables, Logical Equivalence",3.1,,
+,,,R,1/25,"Propositional Logic: Deductions, Predicate Logic",3.1,hw01,
+,,3,T,1/30,"Proofs: Direct, Contrapositive",3.2,,
+,,,R,2/1,"Proofs: Contradiction, Counter Example, Cases ",3.2,q01,hw01
+,inClass,4,T,2/6,Logic Wrap Up ,,,
+,inClass,,R,2/8,Logic Wrap Up ,,hw02,"q01, ic01"
+,,5,T,2/13,"Sets: Notation, Relationships, Operations",0.3,,
+,,,R,2/15,"Functions: Describing, Surjection, Injection, Bijection",0.4,q02,hw02
+noClass,italic ,6,T,2/20,NO CLASS - Monday Schedule,,,
+,,,R,2/22,"Counting: Additive and Multiplicative Principles, Sets, Inclusion/Exclusion Principle",1.1,hw03,q02
+,,7,T,2/27,"Counting: Combinations, Permutations",1.3,,
+,,,R,2/1,"Counting: Combinatorial Proofs, Stars and Bars","1.4, 1.5",q03,hw03
+,inClass,8,T,3/5,Counting Wrap Up,,,
+,inClass,,R,3/7,Counting Wrap Up,,,"q03, ic02"
+noClass,italic,9,T,3/12,NO CLASS - Spring Break ,,,
+noClass,italic,,R,3/14,NO CLASS - Spring Break ,,,
+,,10,T,3/19,"Sequences: Describing, Arithmetic and Geometric","2.1, 2.2",,
+,,,R,3/21,Sequences: Solving Recurrence Relations,2.4,hw04,
+,,11,T,3/26,Sequences: Induction,2.5,,
+,inClass,,R,3/28,Sequences Wrap Up,,q04,hw04
+,inClass,12,T,4/2,Sequences Wrap Up,,,ic03
+,,,R,4/4,Graph Theory: Definitions,4.1,proj,q04
+,,13,T,4/9,Graph Theory: Trees,,,
+,,,R,4/11,Graph Theory: Euler aths and Circuits,4.5,,proj-proposal
+,,14,T,4/16,"Graph Theory: BFS, DFS",,,
+,inClass,,R,4/18,Graph Wrap Up,,,proj-check-in
+,inClass,15,T,4/23,Graph Wrap Up,,,
+presy,proj,,R,4/25,Final Project Presentations,,,proj-final
+presy,proj,16,T,4/30,Final Project Presentations ,,,
 ,,,,,,,,
