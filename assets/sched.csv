@@ -1,10 +1,10 @@
 ﻿class-row,class-topic,Week,Day,Date,Topic,Reading,Assign-OUT,Assign-DUE
 ,,1,T,1/16,"Welcome, What is Discrete?, Mathematica Statements: Atomic & Molecular Statements",0.2,,
-,,,R,1/18,"Mathematical Statements: Implications, Predicates, Quantifiers ",0.2,,
-,,2,T,1/23,"Propositional Logic: Truth Tables, Logical Equivalence",3.1,,
-,,,R,1/25,"Propositional Logic: Deductions, Predicate Logic",3.1,hw01,
-,,3,T,1/30,"Proofs: Direct, Contrapositive",3.2,,
-,,,R,2/1,"Proofs: Contradiction, Counter Example, Cases ",3.2,q01,hw01
+,,,R,1/18,"Propositional Logic: Truth Tables, Logical Equivalence",0.2 & 3.1,,
+,,2,T,1/23,"Propositional Logic: Boolean Algebra, Propositions, Quantifiers",0.2 & 3.1,,
+,,,R,1/25,"Proofs: Direct, Contrapositive",3.2,hw01,
+,,3,T,1/30,"Proofs: Contradiction, Counter Example, Cases ",3.2,,
+,,,R,2/1,Proofs: Induction,2.5,q01,hw01
 ,inClass,4,T,2/6,Logic Wrap Up ,,,
 ,inClass,,R,2/8,Logic Wrap Up ,,hw02,"q01, ic01"
 ,,5,T,2/13,"Sets: Notation, Relationships, Operations",0.3,,
@@ -12,7 +12,7 @@
 noClass,italic ,6,T,2/20,NO CLASS - Monday Schedule,,,
 ,,,R,2/22,"Counting: Additive and Multiplicative Principles, Sets, Inclusion/Exclusion Principle",1.1,hw03,q02
 ,,7,T,2/27,"Counting: Combinations, Permutations",1.3,,
-,,,R,2/1,"Counting: Combinatorial Proofs, Stars and Bars","1.4, 1.5",q03,hw03
+,,,R,2/1,"Counting: Combinatorial Proofs, Binomial Coeffiencts, Pascal's Triangle ","1.4, 1.5",q03,hw03
 ,inClass,8,T,3/5,Counting Wrap Up,,,
 ,inClass,,R,3/7,Counting Wrap Up,,,"q03, ic02"
 noClass,italic,9,T,3/12,NO CLASS - Spring Break ,,,
