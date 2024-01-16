@@ -24,9 +24,9 @@ noClass,italic,,R,3/14,NO CLASS - Spring Break ,,,
 ,inClass,12,T,4/2,Sequences Wrap Up,,,ic03
 ,,,R,4/4,Graph Theory: Definitions,4.1,proj,q04
 ,,13,T,4/9,Graph Theory: Trees,,,
-,,,R,4/11,Graph Theory: Euler aths and Circuits,4.5,,proj-proposal
+,,,R,4/11,Graph Theory: Euler Paths and Circuits,4.5,,proj-proposal
 ,,14,T,4/16,"Graph Theory: BFS, DFS",,,
-,inClass,,R,4/18,Graph Wrap Up,,,proj-check-in
+,inClass,,R,4/18,Graph Wrap Up,,,proj-check
 ,inClass,15,T,4/23,Graph Wrap Up,,,
 presy,proj,,R,4/25,Final Project Presentations,,,proj-final
 presy,proj,16,T,4/30,Final Project Presentations ,,,
