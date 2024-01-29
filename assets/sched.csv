@@ -3,9 +3,9 @@
 ,,,R,1/18,"Propositional Logic: Truth Tables, Logical Equivalence",0.2 & 3.1,,
 ,,2,T,1/23,"Propositional Logic: Boolean Algebra, Propositions, Quantifiers",0.2 & 3.1,,
 ,,,R,1/25,"Proofs: Direct, Contrapositive",3.2,hw01,
-,,3,T,1/30,"Proofs: Contradiction, Counter Example, Cases ",3.2,,
-,,,R,2/1,Proofs: Induction,2.5,q01,hw01
-,inClass,4,T,2/6,Logic Wrap Up ,,,
+,,3,T,1/30,"Proofs: Direct, Contrapositive ",3.2,,
+,,,R,2/1,"Proofs: Contradiction, Counter Example",2.5,q01,hw01
+,inClass,4,T,2/6,Induction and Logic Wrap Up ,,,
 ,inClass,,R,2/8,Logic Wrap Up ,,hw02,"q01, ic01"
 ,,5,T,2/13,"Sets: Notation, Relationships, Operations",0.3,,
 ,,,R,2/15,"Functions: Describing, Surjection, Injection, Bijection",0.4,q02,hw02
